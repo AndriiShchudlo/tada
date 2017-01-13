@@ -1,2 +1,6 @@
-tada/model/todo.class
-tada/IndexController.class
+tada/model/Todo.class
+tada/dao/TodoDaoImpl.class
+tada/dao/TodoDao.class
+tada/service/TodoServiceImpl.class
+tada/controller/TodoController.class
+tada/service/TodoService.class

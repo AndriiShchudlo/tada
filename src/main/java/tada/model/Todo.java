@@ -1,11 +1,9 @@
 package tada.model;
 
-import org.omg.CORBA.portable.IDLEntity;
-
 import javax.persistence.*;
 
 @Entity
-@Table(name = "todos")
+@Table(name = "new_table")
 public class Todo {
     @Id
     @Column(name = "id")

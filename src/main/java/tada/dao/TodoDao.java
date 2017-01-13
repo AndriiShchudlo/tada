@@ -1,8 +1,11 @@
 package tada.dao;
 
+import tada.model.Todo;
+
 import java.util.List;
 
 public interface TodoDao {
-public List<Todo> getTodo();
-public void addItem(String item);
+    public void addItem(String item);
+
+    public List<Todo> listTodos();
 }

@@ -1,2 +1,6 @@
-/home/andriis/IdeaProjects/tada/src/main/java/tada/model/todo.java
-/home/andriis/IdeaProjects/tada/src/main/java/tada/IndexController.java
+/home/andriis/IdeaProjects/tada/src/main/java/tada/dao/TodoDaoImpl.java
+/home/andriis/IdeaProjects/tada/src/main/java/tada/service/TodoServiceImpl.java
+/home/andriis/IdeaProjects/tada/src/main/java/tada/service/TodoService.java
+/home/andriis/IdeaProjects/tada/src/main/java/tada/controller/TodoController.java
+/home/andriis/IdeaProjects/tada/src/main/java/tada/model/Todo.java
+/home/andriis/IdeaProjects/tada/src/main/java/tada/dao/TodoDao.java

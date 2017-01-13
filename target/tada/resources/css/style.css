@@ -1,0 +1,50 @@
+body {
+    background-color: #F5EFE6
+}
+.header {
+    text-align: center;
+    background-color: #89b5db;
+}
+.list-item {
+    margin-bottom: 15px;
+}
+.list-name {
+    color: #283C46;
+    font-size: 2em;
+    font-family: "Fakt Soft", "Helvetica Neue";
+    font-weight: bold;
+}
+.main {
+    padding: 50px 0 0 0;
+    background-color: #FFFFFF;
+    margin-top: 7%;
+    border-radius: 1.0rem;
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.1);
+}
+.todo {
+    font-size: 1.7rem;
+}
+.date{
+    font-size: 0.5em;
+    font-weight: normal;
+}
+#block_id {display: none;}
+.addItemsField {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #e8fff5;
+    display: none;
+    outline: 2px solid #E5E5E5;
+    -moz-outline-radius: 10px;
+}
+.b_add_item {
+    background-color: #5cb85c;
+    line-height: 1.428571;
+}
+.b_cansel{
+    background-color: #a6a6a6 ;
+    line-height: 1.428571;
+}
+.int_style{
+    width: 100%;
+}
